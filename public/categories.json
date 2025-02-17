@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "category": "Deshi Food"
+  },
+  {
+    "id": 2,
+    "category": "Indian Food"
+  },
+  {
+    "id": 3,
+    "category": "Thai Food"
+  },
+  {
+    "id": 4,
+    "category": "Korean Food"
+  }
+]
