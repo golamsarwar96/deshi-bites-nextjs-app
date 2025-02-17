@@ -12,7 +12,7 @@ export default {
     extend: {
       backgroundImage: {
         bg1: "url('/bg1.png')",
-        bg2: "url('/b4.png')",
+        bg2: "url('/bg4.png')",
       },
       colors: {
         bgColor: "#FFF5E1",

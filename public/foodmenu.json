@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "food_img": "https://i.ibb.co.com/zVTjyMtM/20210719181340-IMG-1062-01-scaled.jpg",
+    "category": "Deshi Food",
+    "food_name": "Beef Tehari",
+    "items": ["Beef", "Basmati Rice", "Spices", "Ghee"],
+    "price": 250,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "category": "Deshi Food",
+    "food_img": "https://i.ibb.co.com/6jfphm4/Ilish-Bhapa-Shorshe.webp",
+    "food_name": "Shorshe Ilish",
+    "items": ["Hilsa Fish", "Mustard Paste", "Turmeric", "Green Chili"],
+    "price": 300,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "food_img": "https://i.ibb.co.com/d0vWwGFv/Indian-Butter-Chicken-recipe-with-rice.jpg",
+    "category": "Indian Food",
+    "food_name": "Butter Chicken",
+    "items": ["Chicken", "Butter", "Tomato Puree", "Cream"],
+    "price": 320,
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "food_img": "https://i.ibb.co.com/PvYMYLHw/paneer-tikka-featured-pic-sq.jpg",
+    "category": "Indian Food",
+    "food_name": "Paneer Tikka",
+    "items": ["Paneer", "Yogurt", "Spices", "Bell Peppers"],
+    "price": 280,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "food_img": "https://i.ibb.co.com/NgYfzKNF/Authentic-Pad-Thai-1923-1-1.jpg",
+    "category": "Thai Food",
+    "food_name": "Pad Thai",
+    "items": ["Rice Noodles", "Shrimp", "Tofu", "Peanuts"],
+    "price": 350,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "food_img": "https://i.ibb.co.com/pB17VGWf/green-curry-new-sq-2.jpg",
+    "category": "Thai Food",
+    "food_name": "Green Curry",
+    "items": ["Coconut Milk", "Green Chili", "Chicken", "Basil"],
+    "price": 300,
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "food_img": "https://i.ibb.co.com/zMbHtS4/Kimchi-Fried-Rice-FF.jpg",
+    "category": "Korean Food",
+    "food_name": "Kimchi Fried Rice",
+    "items": ["Kimchi", "Rice", "Egg", "Soy Sauce"],
+    "price": 270,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "food_img": "https://i.ibb.co.com/bgDSb4WW/0407-bibimbap-at-home-lede.webp",
+    "category": "Korean Food",
+    "food_name": "Bibimbap",
+    "items": ["Rice", "Beef", "Vegetables", "Gochujang"],
+    "price": 320,
+    "rating": 4.9
+  }
+]

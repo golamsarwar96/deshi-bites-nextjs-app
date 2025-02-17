@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
       <body className={`${quickSand.className} bg-bgColor pl-5 pr-3`}>
         <NavBar></NavBar>
         {/* //outlet er moto. page.js is the children here(Home Page-) */}
-        <main className="h-screen  max-h-[800px]">{children}</main>
+        <main>{children}</main>
         <Footer></Footer>
       </body>
     </html>

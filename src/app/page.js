@@ -1,6 +1,7 @@
-"use client";
 import { Quicksand, Sour_Gummy } from "next/font/google";
 import Banner from "@/components/Banner";
+import Category from "@/components/Category";
+import FoodCards from "@/components/FoodCards";
 
 const sourGummy = Sour_Gummy({
   subsets: ["latin"],
@@ -14,8 +15,10 @@ const quickSand = Quicksand({
 
 export default function Home() {
   return (
-    <div className={`h-screen bg-bg1 bg-cover bg-center max-h-[550px]`}>
+    <div>
       <Banner></Banner>
+      <Category></Category>
+      <FoodCards></FoodCards>
     </div>
   );
 }

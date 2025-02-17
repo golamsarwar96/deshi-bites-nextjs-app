@@ -12,9 +12,10 @@ const quickSand = Quicksand({
   subsets: ["latin"],
   weight: "600",
 });
+
 const Banner = () => {
   return (
-    <div className="flex justify-evenly items-center pt-20">
+    <div className="flex justify-evenly items-center h-screen bg-bg1 bg-cover bg-center max-h-[550px]`">
       <div className="w-[45%] font-bold">
         <motion.div
           initial={{ opacity: 0, y: -50 }} // Starts above
@@ -42,7 +43,7 @@ const Banner = () => {
             </span>{" "}
           </h1>
           <p
-            className={`${sourGummy.className} rounded-3xl text-lg bg-primaryColor text-secondaryColor px-2 mt-2 w-[50%]`}
+            className={`${sourGummy.className} rounded-3xl text-lg text-center bg-primaryColor text-secondaryColor px-2 mt-2 w-[50%]`}
           >
             Deshi bites is at your service.
           </p>
