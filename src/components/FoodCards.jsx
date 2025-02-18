@@ -13,7 +13,7 @@ const FoodCards = () => {
   }, []);
   return (
     <div
-      className={` h-screen bg-bg2 bg-cover bg-center max-h-[600px] mt-[2px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-center items-center gap-5 px-16 py-7 border-2`}
+      className={` h-screen bg-bg2 bg-cover bg-center max-h-[600px] mt-[2px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-center items-center gap-5 px-16 py-7`}
     >
       {foodMenu.map((menu) => (
         <div

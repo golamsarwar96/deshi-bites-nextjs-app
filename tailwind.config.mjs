@@ -13,6 +13,7 @@ export default {
       backgroundImage: {
         bg1: "url('/bg1.png')",
         bg2: "url('/bg4.png')",
+        bg3: "url('/bg2.png')",
       },
       colors: {
         bgColor: "#FFF5E1",
