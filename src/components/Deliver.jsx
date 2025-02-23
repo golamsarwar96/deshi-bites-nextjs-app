@@ -11,13 +11,13 @@ const sourGummy = Sour_Gummy({
 const Deliver = () => {
   return (
     <div className="h-screen bg-bg3 bg-cover bg-center max-h-[550px]">
-      <h1 className=" text-4xl text-center mt-5 text-primaryColor font-bold bg-bgColor px-2 py-1 ">
+      <h1 className=" text-5xl text-center text-primaryColor font-bold bg-bgColor px-2 py-3">
         Serving You,{" "}
         <span className={`${sourGummy.className} text-accentColor`}>
           Our Way!
         </span>
       </h1>
-      <div className="flex justify-center items-center gap-10">
+      <div className="flex justify-center items-center gap-10 ">
         <div className="flex-1">
           <Lottie
             animationData={deliverLottie}
@@ -26,8 +26,8 @@ const Deliver = () => {
             autoplay={true}
           ></Lottie>
         </div>
-        <div className="grid grid-cols-4 grid-rows-2 pr-16 flex-1">
-          <div className="bg-primaryColor col-span-4 px-6 py-3">
+        <div className="grid grid-cols-4 grid-rows-2 pr-16 flex-1 ">
+          <div className="bg-primaryColor col-span-4 px-6 py-3 shadow-lg">
             <h2
               className={`text-secondaryColor ${sourGummy.className} font-bold text-5xl flex items-center justify-center gap-3 pt-1`}
             >

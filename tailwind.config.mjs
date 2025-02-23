@@ -14,6 +14,7 @@ export default {
         bg1: "url('/bg1.png')",
         bg2: "url('/bg4.png')",
         bg3: "url('/bg2.png')",
+        bg4: "url('/b3.png')",
       },
       colors: {
         bgColor: "#FFF5E1",

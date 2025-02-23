@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John Doe",
+    "reviewer_img": "https://i.ibb.co.com/6cTLKRp5/ey-Jid-WNr-ZXQi-Oi-Jjb250-ZW50-Lmhzd3-N0-YXRp-Yy5jb20i-LCJr-ZXki-Oi-Jna-WZc-L3-Bs-YXlc-Lz-Bi-N2-Y0-Z.jpg",
+    "rating": 5,
+    "comment": "Amazing food! The delivery was super fast, and everything was fresh and hot. Will definitely order again!",
+    "date": "2025-02-22"
+  },
+  {
+    "name": "Emily Smith",
+    "reviewer_img": "https://i.ibb.co.com/sdTnr6mY/Kayla-Person-1.jpg",
+    "rating": 4.5,
+    "comment": "Great taste and portion sizes. The only downside was that my drink was missing, but customer service was quick to resolve it.",
+    "date": "2025-02-20"
+  },
+  {
+    "name": "Michael Brown",
+    "reviewer_img": "https://i.ibb.co.com/FbYdkJx6/Personnel-image-4483-1.jpg",
+    "rating": 4.2,
+    "comment": "Food was decent but arrived a bit late. Still, the flavors were good, the delivery was quick and I'd give it another try.",
+    "date": "2025-02-18"
+  },
+  {
+    "name": "Sophia Wilson",
+    "reviewer_img": "https://i.ibb.co.com/KjF8TWs8/ALICIA-ROTH-WEIGEL-Author-Photo-credit-Tanialee-Gonzalez-1-e1697746464391-1.jpg",
+    "rating": 5,
+    "comment": "Absolutely loved it! The best pasta I've had in a while. Highly recommend this restaurant!. Also delivery was super fast.",
+    "date": "2025-02-15"
+  }
+]
