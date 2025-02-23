@@ -17,14 +17,17 @@ const Review = () => {
       .then((data) => setReviews(data));
   }, []);
   return (
-    <div className="h-screen max-h-[1000px]">
+    <div className="bg-bg3 bg-cover h-screen max-h-[550px]">
       <h1
-        className={`${sour_gummy.className} text-center font-bold text-5xl mb-6`}
+        className={`${sour_gummy.className} text-5xl text-center text-primaryColor font-bold bg-bgColor px-2 py-3`}
       >
-        <span className="text-primaryColor">Reviews</span> From{" "}
-        <span className="text-accentColor">Customers</span>
+        Reviews
+        <span className={`${sour_gummy.className} text-accentColor`}>
+          {" "}
+          <span className="text-black">From</span> Customer{" "}
+        </span>
       </h1>
-      <div className="bg-bg3 grid grid-col md:grid-cols-2 lg:grid-cols-4 gap-5 p-12">
+      <div className=" grid grid-col md:grid-cols-2 lg:grid-cols-4 gap-5 px-10 py-5">
         {reviews.map((review, idx) => (
           <motion.div
             key={idx}

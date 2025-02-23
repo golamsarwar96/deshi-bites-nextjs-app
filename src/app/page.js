@@ -4,6 +4,7 @@ import Category from "@/components/Category";
 import FoodCards from "@/components/FoodCards";
 import Deliver from "@/components/Deliver";
 import Review from "@/components/Review";
+import NewsLetter from "@/components/NewsLetter";
 
 const sourGummy = Sour_Gummy({
   subsets: ["latin"],
@@ -23,6 +24,7 @@ export default function Home() {
       <FoodCards></FoodCards>
       <Deliver></Deliver>
       <Review></Review>
+      <NewsLetter></NewsLetter>
     </div>
   );
 }
